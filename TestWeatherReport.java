@@ -2,14 +2,8 @@
  * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  * Object-Oriented Programming: Project 3
  * @date 10/27/2019
- * @author Ryan Zwier
- * 
- * This file is a class. It draws a bar graph using 
- * javafx. The bars are the averages for a particular 
- * month  next to the monthly average for the last year 
+ * @author Ryan Z
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
- Went to drop-in hours and worked through difficulties with David Hudak,
- Elizabeth Cassibry, and Colin Brown
 */
 
 import javafx.application.Application;
