@@ -2,14 +2,10 @@
  * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  * Object-Oriented Programming: Project 3
  * @date 10/27/2019
- * @author Ryan Zwier
- * 
- * This file is a class. It reads a file into an arraylist 
- * and has methods to get the averages and last year
+ * @author Ryan Z
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
- Went to drop-in hours and worked through difficulties with David Hudak,
- Elizabeth Cassibry, and Colin Brown
 */
+
 import java.io.File;
 import java.util.*;
 
